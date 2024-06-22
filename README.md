@@ -127,8 +127,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you have any questions or need further assistance, feel free to reach out:
 
 - **Email**:  jasonmomanyi@outlook.com
-- **Twitter**: [@yourhandle](https://twitter.com/JasonOrandi)
-- **GitHub**: [your-username](https://github.com/JasonMomanyi)
+- **Twitter**: [@JasonOrandi](https://twitter.com/JasonOrandi)
+- **GitHub**: [@JasonMomanyi](https://github.com/JasonMomanyi)
 
 ---
 
