@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Guessing Game</title>
+    <link rel="stylesheet" type="text/css" href="/public/css/styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome to the Guessing Game</h1>
+
+        <div id="balance"></div>
+
+        <h2>Play the Game</h2>
+        <form id="game-form">
+            <input type="number" id="guess" placeholder="Enter your guess (0-5)" required>
+            <button type="submit">Play</button>
+        </form>
+
+        <h2>Deposit via M-Pesa</h2>
+        <form id="mpesa-form">
+            <input type="text" id="phone" placeholder="Phone number" required>
+            <input type="number" id="mpesa-amount" placeholder="Amount" required>
+            <button type="submit">Pay with M-Pesa</button>
+        </form>
+
+        <h2>Deposit via Credit Card</h2>
+        <form id="stripe-form">
+            <input type="number" id="stripe-amount" placeholder="Amount" required>
+            <input type="text" id="card" placeholder="Card Token" required>
+            <button type="submit">Pay with Credit Card</button>
+        </form>
+    </div>
+    <script src="/js/scripts.js"></script>
+</body>
+</html>
